@@ -53,20 +53,20 @@ global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
-global.owner = ['6281338302495', '6285338440313', '6283899515608']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
-global.botname = '☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜' //ur bot name
+global.owner = ['6281327928962', '6281327928962', '6281327928962']
+global.ownernomer = "6281327928962" //ur number
+global.ownernomer2 = "6281327928962" // second number
+global.ownernomer3 = "6281327928962" // stfu
+global.ownertag = '6281327928962', '6281327928962', '6281327928962' //ur tag number
+global.botname = 'Banh Ca' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
-global.botscript = 'https://github.com/RavensVenix/elainav6' //script link
+global.botscript = 'Cari Sendiri Deck' //script link
 global.reactmoji = "🦈" //ur menu react emoji
 global.themeemoji = "🦈" //ur theme emoji
-global.packname = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur sticker watermark author
-global.wm = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur watermark
+global.packname = "Banh Ca cute><\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "AlwanKarsa" //ur sticker watermark author
+global.wm = "Banh Ca" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
